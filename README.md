@@ -9,3 +9,6 @@
 ## Project 3:
 ### Using the Hardhat Network
 
+## Article: 
+
+### https://medium.com/@rodrigoherrerai/the-complete-hands-on-hardhat-tutorial-9e23728fc8a4
