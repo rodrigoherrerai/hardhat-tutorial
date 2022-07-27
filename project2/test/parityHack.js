@@ -49,4 +49,4 @@ describe("Parity Hack", () => {
         // Hacker should have more Eth than before this execution.
         expect(Math.trunc(Number(hackerBalancePost))).to.be.greaterThan(Math.trunc(Number(hackerBalancePrior)));
     });
-}
+});
